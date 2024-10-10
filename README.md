@@ -6,5 +6,5 @@ Simulation in the platform for ICUAS 2024.
 ![final_scene_graph_yellow_count](https://github.com/user-attachments/assets/39ef0ef7-6992-42d8-b51e-ec7b1a0dab08)
 ![tree_level_scene_graph_yellow](https://github.com/user-attachments/assets/670687c0-50bc-443e-8c31-19e3ac975d3f)
 
-This is only tentative readme, if you want to get access to the source code, please contact me at wenyu.yang@cpnnect.polyu.hk
+This is only a tentative repo, if you want to get access to the source code, please contact me at wenyu.yang@connect.polyu.hk
 
